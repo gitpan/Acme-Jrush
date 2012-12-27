@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-Jrush
-version:            0.03
+version:            0.04
 abstract:           The great new Acme::Jrush!
 author:
     - Jason Rush <jlrush@cpan.org>
